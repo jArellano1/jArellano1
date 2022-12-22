@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Omar Arellano</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Soy un programador de México</h3>
 
 - 🔭 Actualmente trabajo en grupo cosmic **Desarrollo de sistemas internos**
 
